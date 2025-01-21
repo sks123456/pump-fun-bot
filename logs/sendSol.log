@@ -1,0 +1,60 @@
+[2025-01-21T02:23:46.344Z] {
+  "status": "error",
+  "message": "Cannot read properties of undefined (reading 'split')"
+}
+[2025-01-21T02:25:02.623Z] {
+  "status": "success",
+  "message": "Transaction successful with signature: 5KtNzUCb6P7uEKp1xrjPiX8rz6fYekcpiWy3aZnLXyCfaQcT9kwhML1FE8RzZHDMnDBTpjCJAzsrZ2S2KjkzJmFL",
+  "sender": "A7D4sHqjsPNyjFPy8bXPuCnVxTgpVVUZPRFbdDUFe2ue",
+  "receiver": "B8zFq8TdhFsp5kPV7PRiat3opj5nkY4s2xtAgb3R1cfW",
+  "tokenMint": "5sePc7REhT2Mpn9AHEJ2CpBvd919sb3BYCvH7hLLpump",
+  "amount": 1001,
+  "priorityFee": 10000,
+  "senderTokenAccount": "3LJTx8zicQ6eqtR8RwwsEDLDGhVZwCHbYv77QoUhasQk",
+  "receiverTokenAccount": "HEzUwdG4vstD1F6qYjFu3y17beFLtRswAJbjxwTdRJqV",
+  "txHash": "5KtNzUCb6P7uEKp1xrjPiX8rz6fYekcpiWy3aZnLXyCfaQcT9kwhML1FE8RzZHDMnDBTpjCJAzsrZ2S2KjkzJmFL"
+}
+[2025-01-21T02:27:19.871Z] {
+  "status": "error",
+  "message": "Error during transaction: Signature 2QipFSQGm7sPZaeReDSd7gGzBBuR7gRhnGy8zn5UwXYyFBoYKi41vSWEsBW1CVe1jULf7FX1AFLojAWLtKpvnW6a has expired: block height exceeded.",
+  "sender": "A7D4sHqjsPNyjFPy8bXPuCnVxTgpVVUZPRFbdDUFe2ue",
+  "receiver": "B8zFq8TdhFsp5kPV7PRiat3opj5nkY4s2xtAgb3R1cfW",
+  "tokenMint": "5sePc7REhT2Mpn9AHEJ2CpBvd919sb3BYCvH7hLLpump",
+  "amount": 1001000000,
+  "priorityFee": 10000,
+  "senderTokenAccount": "3LJTx8zicQ6eqtR8RwwsEDLDGhVZwCHbYv77QoUhasQk",
+  "receiverTokenAccount": "HEzUwdG4vstD1F6qYjFu3y17beFLtRswAJbjxwTdRJqV"
+}
+[2025-01-21T02:28:11.909Z] {
+  "status": "error",
+  "message": "Error during transaction: Signature 5FEAUSsteKWBH96NoTNJz93fdnNcXcZZKD5wGuFnZ639zUbGuvJ6sc7BZUcXwabsH1ApMZmEwoZHokpytiUaFRHk has expired: block height exceeded.",
+  "sender": "A7D4sHqjsPNyjFPy8bXPuCnVxTgpVVUZPRFbdDUFe2ue",
+  "receiver": "B8zFq8TdhFsp5kPV7PRiat3opj5nkY4s2xtAgb3R1cfW",
+  "tokenMint": "5sePc7REhT2Mpn9AHEJ2CpBvd919sb3BYCvH7hLLpump",
+  "amount": 1001000000,
+  "priorityFee": 10000,
+  "senderTokenAccount": "3LJTx8zicQ6eqtR8RwwsEDLDGhVZwCHbYv77QoUhasQk",
+  "receiverTokenAccount": "HEzUwdG4vstD1F6qYjFu3y17beFLtRswAJbjxwTdRJqV"
+}
+[2025-01-21T02:28:48.790Z] {
+  "status": "error",
+  "message": "Error during transaction: Signature zyxwts62e97jUV6prY5XZ2GpoK6REqe9M2E8eaxAV687JzA5iH8tvoHXHRjcVRTbMcvq7cfnmNjrW2gk2bNbbab has expired: block height exceeded.",
+  "sender": "A7D4sHqjsPNyjFPy8bXPuCnVxTgpVVUZPRFbdDUFe2ue",
+  "receiver": "B8zFq8TdhFsp5kPV7PRiat3opj5nkY4s2xtAgb3R1cfW",
+  "tokenMint": "5sePc7REhT2Mpn9AHEJ2CpBvd919sb3BYCvH7hLLpump",
+  "amount": 1001000000,
+  "priorityFee": 10000,
+  "senderTokenAccount": "3LJTx8zicQ6eqtR8RwwsEDLDGhVZwCHbYv77QoUhasQk",
+  "receiverTokenAccount": "HEzUwdG4vstD1F6qYjFu3y17beFLtRswAJbjxwTdRJqV"
+}
+[2025-01-21T02:29:39.096Z] {
+  "status": "error",
+  "message": "Error during transaction: Signature 5LHRStF6iYFVPmVMMoz8HP79fvBLdpU2bL8RwFgxmysXSVPjZMtRuHAJQpAoRX3EXLU3Thf8X1RKf6W85iWndk63 has expired: block height exceeded.",
+  "sender": "A7D4sHqjsPNyjFPy8bXPuCnVxTgpVVUZPRFbdDUFe2ue",
+  "receiver": "B8zFq8TdhFsp5kPV7PRiat3opj5nkY4s2xtAgb3R1cfW",
+  "tokenMint": "5sePc7REhT2Mpn9AHEJ2CpBvd919sb3BYCvH7hLLpump",
+  "amount": 1001000000,
+  "priorityFee": 100000,
+  "senderTokenAccount": "3LJTx8zicQ6eqtR8RwwsEDLDGhVZwCHbYv77QoUhasQk",
+  "receiverTokenAccount": "HEzUwdG4vstD1F6qYjFu3y17beFLtRswAJbjxwTdRJqV"
+}
